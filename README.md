@@ -1,5 +1,5 @@
 # yuk-kenalan
-<h1 align="center">Hi 👋, I'm Aisyah Hersa Dwi Putri</h1>
+<h1 align="center">Hii 👋, I'm Aisyah Hersa Dwi Putri</h1>
 <h3 align="center">I'm Undergraduate Student of Geophysics Gadjah Mada University</h3>
 
 - 📫 How to reach me **aisyahhersadwiputri@mail.ugm.ac.id**
